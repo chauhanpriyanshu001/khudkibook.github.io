@@ -130,11 +130,12 @@ h1 {
 /* Navigator */
 
 .navi {
+    border-radius: 10px;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     flex-wrap: wrap;
-    padding: 3px;
+    padding: 5px;
     background-color: rgb(0, 179, 250);
 
 }
