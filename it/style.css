@@ -40,6 +40,18 @@ h4.header {
     font-size: 6vh;
 }
 
+/* */
+.selctor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+select.selectm {
+    width: 8vh;
+    height: 9vh;
+}
+
 /*  */
 table {
     border: 2px solid black;
@@ -194,4 +206,9 @@ h1 {
 
     padding: 3px;
     color: white;
+}
+
+.pyi {
+    background-image: url("ATU1695.jpeg");
+    background: fixed;
 }
