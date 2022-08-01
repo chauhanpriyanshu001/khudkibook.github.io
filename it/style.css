@@ -208,7 +208,19 @@ h1 {
     color: white;
 }
 
-.pyi {
-    background-image: url("ATU1695.jpeg");
-    background: fixed;
+/*  */
+.check {
+    font-size: 3vh;
+    color: white;
+    border: 3px solid black;
+    border-bottom: 0px;
+    padding: 3px;
+
+}
+
+input {
+    width: 2vh;
+    height: 2vh;
+    margin-left: 5px;
+
 }
