@@ -223,3 +223,26 @@ input {
     margin-left: 5px;
 
 }
+
+
+.name {
+    background-color: green;
+    border-right: 2px solid blue;
+    text-align: center;
+    color: white;
+
+}
+
+.date {
+    background-color: white;
+    border: 2px solid blue;
+    color: blue;
+    text-align: center;
+
+}
+
+.time {
+    background-color: orange;
+    text-align: center;
+
+}
