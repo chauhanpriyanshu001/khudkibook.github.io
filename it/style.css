@@ -242,7 +242,7 @@ input {
 
 
 .name {
-    background-color: green;
+    background-color: orange;
     border-right: 2px solid blue;
     text-align: center;
     color: white;
@@ -258,7 +258,7 @@ input {
 }
 
 .time {
-    background-color: orange;
+    background-color: green;
     text-align: center;
 
 }
